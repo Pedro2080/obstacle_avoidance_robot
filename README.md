@@ -1,4 +1,3 @@
-```# Obstacle avoidance robot car
 ## Objectives
 
 The main objective of the project is to build a robot which will be capable to move freely avoiding obstacle in its
@@ -74,3 +73,4 @@ If the distance between the Robot and obstacle is greater than 20 cm the Robot k
 this process continues forever and the robot keeps moving without danger.
 
 [Obstacle_avoidance_demostration_video](https://www.youtube.com/watch?v=ScbohdCsyO8)
+
